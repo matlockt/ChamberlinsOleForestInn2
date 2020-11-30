@@ -129,7 +129,7 @@ width: 25%;
 
 @media only screen and (max-width: 600px) {
   .navbar-brand {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 
 h1 {
@@ -150,7 +150,7 @@ h1 {
 position: static;
 width: 100%;
 text-align: center;
-padding-top: 15%;
+padding-top: 45%;
   }
 
   .photo2 {
