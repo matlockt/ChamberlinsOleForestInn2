@@ -124,16 +124,7 @@ footer {
 
 /* Mobile View */
 @media only screen and (max-width: 600px) {
-  .navbar-brand {
-    font-size: 1.5rem;
-  }
-
-  .footerlink {
-    font-family: 'Cormorant Garmond', serif;
-    font-size: .8rem;
-    text-shadow: 2px 2px black;
-    color: white;
-  }
+  
 
   .slideimg1 {
         object-position: center;
